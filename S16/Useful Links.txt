@@ -1,0 +1,5 @@
+Middleware: https://redux.js.org/advanced/middleware/
+
+redux-thunk package: https://github.com/gaearon/redux-thunk
+
+Async Actions: https://redux.js.org/advanced/async-actions

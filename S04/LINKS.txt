@@ -1,0 +1,6 @@
+Conditional Rendering: https://reactjs.org/docs/conditional-rendering.html
+Lists & Keys: https://reactjs.org/docs/lists-and-keys.html
+Resources for this lecture
+ lists-conditionals--01-conditional-content.zip
+ lists-conditionals--lists-finished.zip
+ 

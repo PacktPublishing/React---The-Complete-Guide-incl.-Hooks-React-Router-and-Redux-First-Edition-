@@ -1,0 +1,10 @@
+Useful Resources & Links
+Redux Docs: https://redux.js.org/
+
+Core Concepts: https://redux.js.org/introduction/core-concepts
+
+Actions: https://redux.js.org/basics/actions
+
+Reducers: https://redux.js.org/basics/reducers
+
+Redux FAQs: https://redux.js.org/faq

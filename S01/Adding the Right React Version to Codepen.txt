@@ -1,0 +1,12 @@
+Section 1, Lecture 4
+In the next lecture, we'll write our first React code in Codepen, an online editor (it's only getting used in the next lecture).
+
+Currently, there seems to be a bug if you add React as shown in the next video.
+
+To fix it, replace the automatically added import paths (you'll see what I mean) with these:
+
+https://cdnjs.cloudflare.com/ajax/libs/react/15.6.1/react.min.js 
+
+https://cdnjs.cloudflare.com/ajax/libs/react/15.6.1/react-dom.min.js 
+
+This should fix. And don't worry about the React version, the entire rest of the course uses 16+ :)
